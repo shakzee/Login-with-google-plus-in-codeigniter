@@ -1,0 +1,2 @@
+[13-Aug-2017 16:06:17 UTC] PHP Fatal error:  Call to a member function userdata() on null in /home/shakzeec/public_html/LoginWithSocialNetworks/application/controllers/Welcome.php on line 9
+[13-Aug-2017 18:45:21 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/shakzeec/public_html/LoginWithSocialNetworks/application/controllers/LoginWithGooglePlus.php on line 26
